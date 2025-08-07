@@ -4,10 +4,10 @@ This project demonstrates deploying a lightweight ONNX-optimized LLM for fast in
 
 ## Features
 
-- 🔥 Fast inference using ONNX Runtime
-- 🧠 Tokenization via Hugging Face Transformers
-- 🐳 Dockerized for portability
-- ⚙️ Designed to scale via Kubernetes
+- QUick inference using ONNX Runtime
+- Tokenization via Hugging Face Transformers
+- Dockerized for portability
+-  Designed to scale via Kubernetes
 
 ## Usage
 
